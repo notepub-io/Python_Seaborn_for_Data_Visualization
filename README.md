@@ -1,2 +1,4 @@
 # Python_Seaborn_for_Data_Visualization
-https://notepub.io/notes/programming-languages/python-seaborn-for-data-visualization/python-seaborn-for-data-visualization-scatter-plots/
+
+This repository contains all the python notebooks created using the Python Seaborn library for Data Visualization. To know more, kindly visit the below site.
+https://tinyurl.com/2zda2vjk
